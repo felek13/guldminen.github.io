@@ -1,0 +1,36 @@
+# site settings
+title: Guldminen
+subtitle: 
+email: kontakt@guldminen.dk
+description: Et eksperimentarium for cirkulær økonomi i København
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: Vasbygade 20
+city: Kobenhavn
+state: 
+zip_code: 1671
+country: Denmark
+phone: 74563423
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 4
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/GuldminenKbh/
+github_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/guldminenkbh/
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
